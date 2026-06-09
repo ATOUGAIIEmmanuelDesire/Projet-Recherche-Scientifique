@@ -1,9 +1,5 @@
 # GeeMotion : Intelligent Gesture-Control HMI for Industrial Cobotics
 
-<p align="center">
-  <img src="geemotion-frontend/public/assets/logo-ucac-icam.png" alt="UCAC-icam" height="80">
-  <img src="geemotion-frontend/public/assets/logo-logico-tech.png" alt="Logico Tech" height="80">
-</p>
 
 ## 📌 Présentation du Projet
 **GeeMotion** est une Interface Homme-Machine (IHM) intelligente et sans contact conçue pour superviser et piloter des robots collaboratifs (cobots) industriels. Développé dans le cadre de notre projet de recherche scientifique à l'**UCAC-icam**, ce système utilise la vision artificielle monoculaire couplée au Deep Learning pour traduire les gestes de l'opérateur en commandes cinématiques, tout en assurant un retour d'information visuel en temps réel et un monitoring de performance (TRS, Éco-performance).
